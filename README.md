@@ -1,5 +1,7 @@
 # rapidscan
-
+automated portscanner of all time
+# Warning
+If you haven't download the all tools you might get some errors
 # Installation
 git clone git@github.com:R3DHULK/rapidscan.git
 
